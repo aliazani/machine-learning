@@ -1,2 +1,10 @@
-# Machine learning in python
-### This project is a series of python scripts to learn machine learning.
+# Data-science and  Machine learning in python
+## Curriculum:
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Scikit-learn
+  * Classification
+  * Regression
+  * Clustering
+5. Tensorflow2
